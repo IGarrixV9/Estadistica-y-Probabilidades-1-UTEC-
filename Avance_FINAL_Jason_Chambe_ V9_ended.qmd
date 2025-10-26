@@ -1,5 +1,5 @@
 ---
-title: "proyecto_grupo3"
+title: "Jason Jose Chambe Lopez and Maria Luisa Antonieta Espinoza Gallardo"
 format: html
 editor: visual
 ---
