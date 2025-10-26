@@ -1,4 +1,5 @@
 # Paquete anti-plagio para Quarto (.qmd)
+google-site-verification: googlef2bc868d3da68177.html
 
 Este kit añade **huellas de autoría** visibles y ocultas a un `.qmd` y a su HTML publicado.
 
